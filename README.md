@@ -12,3 +12,15 @@ Neste projeto a pagina HOME foi uma homenagem para a minha namorada, onde eu rea
 
 Lenbrando que o objetivo deste projeto foi somente para estudos e pratica das linguagens de programação, marcação e estilização. 
 
+programas utilizados:
+Xampp
+Versão xampp - V3.3.0
+Bloco de notas
+
+
+
+
+-- DB.SQL-- 
+Criação do banco db_teste
+
+
