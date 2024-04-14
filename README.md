@@ -1,5 +1,5 @@
 
-# tela de cadastro + tela de login + home usando html-css-js
+# tela de cadastro + tela de login + home // usando html-css-js - Xampp
 
 O objetivo desse projeto foi criar uma pagina de cadastro solicitando os campos "nome, email e senha" .
 A validação é realizada para verificar se os campos foram preenchidos corretamente, caso a resposta seja valida, os dados sao salvos no banco de dados chamado "db_teste", na tabela "users".
